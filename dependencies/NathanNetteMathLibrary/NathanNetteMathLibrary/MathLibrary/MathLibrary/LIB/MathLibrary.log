@@ -1,0 +1,11 @@
+﻿  Vector4.cpp
+  Vector3.cpp
+  Vector2.cpp
+  Matrix4.cpp
+  Matrix3.cpp
+  Matrix2.cpp
+  Generating Code...
+e:\mathlibrary\mathlibrary\mathlibrary\matrix2.cpp(143): warning C4715: 'Matrix2::IsIdentity': not all control paths return a value
+e:\mathlibrary\mathlibrary\mathlibrary\matrix3.cpp(174): warning C4715: 'Matrix3::IsIdentity': not all control paths return a value
+e:\mathlibrary\mathlibrary\mathlibrary\vector2.cpp(151): warning C4715: 'Vector2::operator==': not all control paths return a value
+  MathLibrary.vcxproj -> E:\MathLibrary\MathLibrary\LIB\MathLibrary.lib
